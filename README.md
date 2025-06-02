@@ -16,7 +16,7 @@ para ver este repositorio dar click en el sig [link]()
 
 Puedes ver el código fuente en el siguiente enlace:
 
-🔗 [index.html en GitHub](https://github.com/fredd81/PF-MODULO1/blob/master/index.html)
+🔗 [index.html en GitHub](fredd81.github.io/PF-MODULO1/)
 
 ## 📂 Estructura básica del proyecto
 
